@@ -1,4 +1,4 @@
-# Odoo Configuration Management (CMI)
+# Odoo Configuration Management
 
 ## Overview
 
