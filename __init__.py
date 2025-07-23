@@ -1,0 +1,1 @@
+# Odoo Configuration Management Module
